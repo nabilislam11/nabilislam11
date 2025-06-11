@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Nabil islam</h1>
 <h3 align="center">A Passionate MERN stack Dev.living on the third orbital planet named Earth(A Blue Planet), in the continent of Asia, in the country of Bangladesh, in the city of Dhaka.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nabilislam11&label=Profile%20views&color=0e75b6&style=flat" alt="nabilislam11" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nabilislam11" alt="nabilislam11" /></a> </p>
 
